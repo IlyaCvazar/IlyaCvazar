@@ -5,8 +5,8 @@
 🔭 В настоящее время изучаю: Python, машинное обучение и веб-разработку  
 🌱 Учусь писать чистый и эффективный код  
 💬 Готов к обсуждению проектов, коллаборациям и стажировкам  
-📫 Связаться со мной: [ваша_почта@gmail.com](mailto:ilaokolelov726s@gmail.com)  
-🔗 [VK](https://vk.com/djodah_avi) |
+📫 Связаться со мной: [ilaokolelov726@gmail.com](mailto:ilaokolelov726@gmail.com)  
+🔗 [VK](https://vk.com/djodah_avi)
 
 ---
 
@@ -15,7 +15,6 @@
 **Языки программирования:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 
 **Инструменты и платформы:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
