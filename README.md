@@ -1,16 +1,43 @@
-## Hi there 👋
+# Привет, я [Илья] 👋
 
-<!--
-**IlyaCvazar/IlyaCvazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Живу в Норильске, Красноярский край  
+📅 Активен в разработке с 2020 года  
+🔭 В настоящее время изучаю: Python, машинное обучение и веб-разработку  
+🌱 Учусь писать чистый и эффективный код  
+💬 Готов к обсуждению проектов, коллаборациям и стажировкам  
+📫 Связаться со мной: [ваша_почта@gmail.com](mailto:ilaokolelov726s@gmail.com)  
+🔗 [VK](https://vk.com/djodah_avi) |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии и инструменты
+
+**Языки программирования:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Инструменты и платформы:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)]
+
+---
+
+## 📊 Моя статистика на GitHub
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=IlyaCvazar&show_icons=true&theme=radical&include_all_commits=true)
+
+![Языки GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaCvazar&layout=compact&theme=radical)
+
+---
+
+## 🏆 Достижения
+
+- Участник «Код будущего» — 2025, финалист
+
+---
+
+## 🐱 Мне нравится
+
+Кошки, открытый код, чёрный кофе, музыка в наушниках и тишина вокруг.  
+Когда не пишу код — читаю документацию или смотрю лекции от МФТИ и Яндекса.
+
