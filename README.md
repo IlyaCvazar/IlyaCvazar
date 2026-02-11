@@ -27,6 +27,8 @@
 ![Участник «Код будущего» — 2024](https://disk.yandex.ru/i/HiU3uJdGDs1ECA)
 
 ---
+## Статы
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=IlyaCvazar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🐱 Мне нравится
 
