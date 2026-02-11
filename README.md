@@ -14,19 +14,11 @@
 
 **Языки программирования:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=cppt&logoColor=black)
 
 **Инструменты и платформы:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-
----
-
-## 📊 Моя статистика на GitHub
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=IlyaCvazar&show_icons=true&theme=radical&include_all_commits=true)
-
-![Языки GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaCvazar&layout=compact&theme=radical)
 
 ---
 
