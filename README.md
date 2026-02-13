@@ -34,9 +34,9 @@
 
 ---
 # Мои статы
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=iIlyaCvazar&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=IlyaCvazar&theme=radical)
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyaCvazar&theme=solarized_dark) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyaCvazar&theme=solarized_dark)
 
 ![Profile views](https://komarev.com/ghpvc/?username=IlyaCvazar)
 # 🐱 Мне нравится
