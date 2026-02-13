@@ -34,9 +34,9 @@
 
 ---
 # Мои статы
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=IlyaCvazar&show_icons=true&theme=dracula)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=IlyaCvazar&theme=dracula)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlyaCvazar&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=IlyaCvazar&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats-fast.vercel.app/api/streak?username=IlyaCvazar&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlyaCvazar&layout=compact&theme=gruvbox)
 # 🐱 Мне нравится
 
 Кошки, открытый код, чёрный кофе, музыка в наушниках и тишина вокруг.  
