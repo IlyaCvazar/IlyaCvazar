@@ -33,7 +33,12 @@
 ![](assets/certify.png)
 
 ---
+# Мои статы
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=iIlyaCvazar&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyaCvazar&theme=solarized_dark)
+
+![Profile views](https://komarev.com/ghpvc/?username=IlyaCvazar)
 # 🐱 Мне нравится
 
 Кошки, открытый код, чёрный кофе, музыка в наушниках и тишина вокруг.  
