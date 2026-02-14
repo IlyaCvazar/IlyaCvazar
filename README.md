@@ -13,8 +13,10 @@
 # 🛠️ Технологии и инструменты
 
 **Языки программирования:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
 **Инструменты и платформы:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
@@ -34,7 +36,9 @@
 ---
 # 📊 Моя статистика
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=IlyaCvazar&show_icons=true&theme=gruvbox)
+
 ![](https://github-readme-stats-fast.vercel.app/api/streak?username=IlyaCvazar&theme=gruvbox)
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlyaCvazar&layout=compact&theme=gruvbox)
 # 🐱 Мне нравится
 
