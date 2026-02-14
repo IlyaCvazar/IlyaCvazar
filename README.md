@@ -1,8 +1,7 @@
 # Hi, I’m Ilya 👋
 
 📍 I live in Norilsk, Krasnoyarsk Krai  
-📅 Active in development since 2020  
-🔭 Currently learning: Python, machine learning, and web development  
+📅 Active in development since 2020    
 🌱 Learning to write clean and efficient code  
 💬 Open to discussing projects, collaborations, and internships  
 
