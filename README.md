@@ -35,27 +35,6 @@
 <br><br>
 ---
 
-# 🏆 Achievements
-
-<img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif"
-     alt="Achievements animation"
-     width="400">
-
-## Participant in the state program «Code of the Future» — 2024
-
-1. **Module 1.** Introduction to structured programming in Python  
-   - Data types, conditions, loops.
-2. **Module 2.** Functional programming  
-   - Data structures.
-3. **Module 3.** Object‑oriented programming  
-   - Problem solving.
-4. **Module 4.** Applied development  
-   - Graphical games, web scrapers.
-
-![Certificate](assets/certify.png)
-
----
-
 # 📊 My statistics
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=IlyaCvazar&show_icons=true&theme=gruvbox)
